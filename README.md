@@ -6,5 +6,5 @@ Production Url: <https://hosts.notionfaster.org>
 
 # How it works
 
-- Use [betteruptime](betteruptime.com) to monitor node
+- Use [betteruptime](https://betteruptime.com) to monitor node
 - Use cloudflare work to fetch status on betteruptime, then export
