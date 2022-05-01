@@ -1,6 +1,6 @@
 # Notion-faster Online hosts
 
-A gateway show avaiable hosts, which can be used in [SwitchHosts](https://github.com/oldj/SwitchHosts).
+A gateway show available hosts, which can be used in [SwitchHosts](https://github.com/oldj/SwitchHosts).
 
 Production Url: <https://hosts.notionfaster.org>
 
