@@ -1,11 +1,21 @@
-name = "worker-typescript-template"
+name = "fetch-online-hosts"
 type = "javascript"
 zone_id = ""
 account_id = ""
 route = ""
 workers_dev = true
 
+[dev]
+ip = "0.0.0.0"
+port = 8787
+
 [build]
-command = "npm install && npm run build"
+command = "yarn && yarn build"
+cwd = "./"
+
 [build.upload]
 format = "service-worker"
+
+[secrets]
+# wrangle secret varname
+# BETTER_UPTIME_TOKEN
